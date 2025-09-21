@@ -70,7 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 Regards,
-Junaid Rana
-Design portfolio of Junaid Rana — a product designer working on web design, app and website development with a focus on motion, experience design, and accessibility.
+Design portfolio of Arvind Kumar — a product designer working on web design, app and website development with a focus on motion, experience design, and accessibility.
 =======
 # React-Portfolio
