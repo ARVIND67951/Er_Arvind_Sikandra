@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Allow: /
-Sitemap: https://junaidrana.vercel.app/sitemap.xml
+Sitemap: https://https://er-arvind-sikandra.vercel.app/sitemap.xml
