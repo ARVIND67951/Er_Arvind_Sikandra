@@ -22,10 +22,10 @@ const Testimonial = () => {
       desc: "“Dedicated, skilled, and a pleasure to work with. Arvind consistently delivers exceptional results.”",
     },
     {
-      img: "https://res.cloudinary.com/dsr70k3to/image/upload/v1681752141/Portfolio/testadnan_ojrzq8.jpg",
+      img: "https://xeric-beige-9pkvmlzlnz.edgeone.app/owner.png",
       // img: adnan,
-      cname: "Akshat Jain",
-      dsg: "Web Developer",
+      cname: "Deepak Kumar",
+      dsg: "Rajasthan Stone Articles",
       desc: "“Excellent job! I'm glad I decided to work with Arvind . He exceeded my expectations.”",
     },
     {
