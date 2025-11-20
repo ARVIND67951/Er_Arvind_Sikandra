@@ -15,7 +15,7 @@ import { motion } from "framer-motion";
 const Testimonial = () => {
   const clients = [
     {
-      img: "https://www.gemhavendesigns.com/assets/Background-img/ram.jpg",
+      img: "https://tender-rose-fjytpwuic8.edgeone.app/Screenshot%202025-11-20%20215656.png",
       // img: shehzad,
       cname: "Ramcharn Tiwari",
       dsg: "The Gemheven Design, Director",
