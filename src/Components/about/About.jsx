@@ -18,7 +18,7 @@ const About = () => {
         <span>About Me</span>
         <h2>Learn Something About Me</h2>
         <span>
-          I’m a professional front-end web developer from CITM Jaipur, I
+          I’m a professional front-end web developer from Jaipur, I
           specialize in creating blazing-fast and fully responsive UIs and web
           apps using JavaScript frameworks and libraries. <br />
           <span style={{ color: "orange" }}>
