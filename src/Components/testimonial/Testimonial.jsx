@@ -15,14 +15,14 @@ import { motion } from "framer-motion";
 const Testimonial = () => {
   const clients = [
     {
-      img: "https://tender-rose-fjytpwuic8.edgeone.app/Screenshot%202025-11-20%20215656.png",
+      img: "https://drive.google.com/thumbnail?id=1Fa3hUDmdrBzX9fyXnXnL1Hge6cWJvzgg",
       // img: shehzad,
       cname: "Ramcharn Tiwari",
       dsg: "The Gemheven Design, Director",
       desc: "“Dedicated, skilled, and a pleasure to work with. Arvind consistently delivers exceptional results.”",
     },
     {
-      img: "https://xeric-beige-9pkvmlzlnz.edgeone.app/owner.png",
+      img: "https://drive.google.com/thumbnail?id=1LeYCkC0xqMQXNOYuBjyJHJjt3JhioPFU",
       // img: adnan,
       cname: "Deepak Kumar",
       dsg: "Rajasthan Stone Articles",
