@@ -118,6 +118,35 @@ const Footer2 = () => {
               <RiLinkedinFill />
             </a>
           </div>
+          <div style={{ display: "none" }}>
+      <a href="https://rajasthanstonearticles.com/" target="_blank" rel="noopener noreferrer">
+        Rajasthan Stone Articles
+      </a>
+      <a href="https://rajasthanstonearticles.com/about.html" target="_blank" rel="noopener noreferrer">
+        Deepak Bhai
+      </a>
+      <a href="https://rajasthanstonearticles.com/service.html" target="_blank" rel="noopener noreferrer">
+        stone supplier near me
+      </a>
+      <a href="https://rajasthanstonearticles.com/buddha-stone.html" target="_blank" rel="noopener noreferrer">
+        buddha stone statue
+      </a>
+      <a href="https://rajasthanstonearticles.com/outdoor-fountain.html" target="_blank" rel="noopener noreferrer">
+        stone fountain
+      </a>
+      <a href="https://rajasthanstonearticles.com/tample-gate.html" target="_blank" rel="noopener noreferrer">
+        temple gate
+      </a>
+      <a href="https://rajasthanstonearticles.com/murti.html" target="_blank" rel="noopener noreferrer">
+        indian idol season 15 winner
+      </a>
+      <a href="https://rajasthanstonearticles.com/cnc-design.html" target="_blank" rel="noopener noreferrer">
+        modern cnc design
+      </a>
+      <a href="https://rajasthanstonearticles.com/contact.html" target="_blank" rel="noopener noreferrer">
+        rajasthan stone house
+      </a>
+    </div>
         </footer>
       </section>
     </>
